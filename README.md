@@ -15,4 +15,4 @@ The customer requested a refactor of existing code in order to meet accessibilty
 
 [Horiseon](http://127.0.0.1:5501/index.html)
 
-![Horiseon Web Page](image.png)
+![Horiseon Web Page](image-1.png)
